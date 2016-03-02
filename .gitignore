@@ -31,3 +31,22 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+~$*.pptx
+.idea
+.idea/
+pids
+logs
+results
+build
+node_modules
+*.DS_Store
+tmp/**
+coverage/
